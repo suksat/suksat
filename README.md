@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sukumar Satyen
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java
+- 🌱 I’m looking to start up on Payment Gateway
+- 💞️ I’m looking to collaborate on e-commerce development
 - 📫 Please email me Sukumar Satyen at aol dot com,
 
 - # SOLID Principles
