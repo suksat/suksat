@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sukumar Satyen
-- 👀 I’m interested in Backend Development
+- 👀 I’m interested in Software Architecture Development
 - 🌱 I’m looking to start up on Payment Gateway
 - 💞️ I’m looking to collaborate on e-commerce development
-- 📫 Please email me Sukumar Satyen at aol dot com,
+- 📫 Please connect with me linkedin.com/in/SukumarSatyen
 
 - # SOLID Principles
 
