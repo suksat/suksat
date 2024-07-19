@@ -22,6 +22,32 @@ The acronym SOLID stands for:
 
 By following these SOLID principles, developers can create software that is easier to understand, maintain, and modify. Adhering to these principles leads to code that is more modular, flexible, and less prone to bugs. This makes it easier to introduce new features or modify existing ones without unintended side effects.
 
+There are following code structures or patterns that can be converted to adhere to SOLID principles. Let us consider the list:
+
+--- If-else ladders or switch statements
+--- Large, monolithic classes with multiple responsibilities
+--- Tightly coupled classes
+--- Interfaces with too many methods
+--- High-level modules directly depending on low-level modules
+
+--- Classes that violate the Liskov Substitution Principle
+--- Rigid class hierarchies that are difficult to extend
+--- Code duplication across similar classes
+--- Classes that create their own dependencies
+--- Inheritance hierarchies that force unneeded method implementations
+
+--- God objects (classes that try to do too much)
+--- Tight coupling between modules or components
+--- Hardcoded dependencies
+--- Classes with low cohesion
+--- Violating the Law of Demeter (principle of least knowledge)
+
+--- Overuse of static methods and classes
+--- Excessive use of global variables or singletons
+--- Lack of abstraction layers
+--- Poorly designed inheritance hierarchies
+--- Overuse of conditional complexity
+
 These principles play a vital role in designing robust and scalable software systems, and they provide a foundation for writing high-quality code.
 
 <!---
